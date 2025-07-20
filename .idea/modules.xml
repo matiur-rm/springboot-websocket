@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springboot-websocket-terraform/.idea/springboot-websocket-terraform.iml" filepath="$PROJECT_DIR$/../springboot-websocket-terraform/.idea/springboot-websocket-terraform.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/websocket-spring.iml" filepath="$PROJECT_DIR$/.idea/websocket-spring.iml" />
     </modules>
   </component>

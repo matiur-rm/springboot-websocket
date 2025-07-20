@@ -1,4 +1,4 @@
-# 🧩 springboot-websocket-chat
+# 🧩 Spring boot-websocket-chat
 
 A real-time chat application built with Spring Boot and WebSocket, designed for scalable, containerized deployment on AWS ECS (Fargate) using a fully automated CI/CD pipeline.
 
