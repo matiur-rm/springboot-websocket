@@ -1,0 +1,4 @@
+com/example/websocket/controller/ChatController.class
+com/example/websocket/model/ChatMessage.class
+com/example/websocket/WebsocketApplication.class
+com/example/websocket/WebSocketConfig.class
